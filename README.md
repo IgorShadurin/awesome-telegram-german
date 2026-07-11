@@ -24,4 +24,4 @@ Eine kuratierte Liste der besten Telegram-Kanäle, Gruppen und Bots auf Deutsch.
 
 | Name | Beschreibung | Telegram | Details |
 |------|--------------|----------|---------|
-| Weight Goal Bot | Wöchentliche Gewichtsziele in Gruppen mit Fotos, Diagrammen, Erinnerungen und Erfolgen; verfügbar auf Englisch, Russisch und Chinesisch | [Öffnen](https://t.me/my_weight_goal_bot) | [Details](bots/weight-goal-bot.md) |
+| Weight Goal Bot | Wöchentliche Gewichtsziele in Gruppen mit Fotos, Diagrammen, Erinnerungen und 53 Erfolgen; auf Deutsch und acht weiteren Sprachen | [Öffnen](https://t.me/my_weight_goal_bot) | [Details](bots/weight-goal-bot.md) |

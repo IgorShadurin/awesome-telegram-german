@@ -1,12 +1,12 @@
 # Weight Goal Bot
 
-Ein quelloffener Gruppen-Bot zum Verfolgen von Abnehmzielen. Er ist auf Englisch, Russisch und Chinesisch verfügbar.
+Ein quelloffener Gruppen-Bot, der dich Schritt für Schritt zu deinem Gewichtsziel begleitet. Er spricht natürliches Deutsch und unterstützt insgesamt neun Sprachen.
 
 ## Grundinformationen
 
 - **Name:** Weight Goal Bot
 - **Typ:** Bot
-- **Sprachen:** Englisch, Russisch und Chinesisch
+- **Sprachen:** Deutsch, Englisch, Russisch, Chinesisch, Spanisch, Portugiesisch, Französisch, Japanisch und Indonesisch
 - **Telegram:** https://t.me/my_weight_goal_bot
 - **Quellcode:** https://github.com/IgorShadurin/weight-telegram-bot
 - **Lizenz:** Apache-2.0
